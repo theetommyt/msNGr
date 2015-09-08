@@ -9,7 +9,7 @@
 - what is $scope? https://docs.angularjs.org/guide/scope
 - write expressions for header title and tagLine
 - load page in chrome
--
+
 
 
 
