@@ -13,7 +13,7 @@
 
 
 
-Labs
+### Labs
 1. Write a basic angular app that uses expressions to list at least 5 attributes of a person.
 
 2. Write a basic angular app that uses the ng-repeat method to list items in a to-do list. The list should have 4 attributes including a date created. Use a filter to include the date.
